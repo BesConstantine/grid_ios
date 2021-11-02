@@ -3,3 +3,7 @@
   grid-template-columns: 1fr;
   width: 160px;
 }
+
+.test {
+  font-size: 0;
+}
